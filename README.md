@@ -19,3 +19,5 @@ My name is Nedim and I'm 21 year-old software engineering student, currently thi
  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 
 </p>
+
+I'm interested in exploring new technologies, but my current plan is to master the ones mentioned above. 
